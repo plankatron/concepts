@@ -64,6 +64,6 @@
       "physics": true,
       "start_url": "https://plankatron.github.io/concepts/concepts.glb",
       "dynamic": false
-    },
+    }
   ]
 }
