@@ -8,6 +8,14 @@
       }
     },
     {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 180, 10], 2],
+        "position": [0, 30000, 0]
+      }
+    },
+    {
       "position": [
         0,
         0,
